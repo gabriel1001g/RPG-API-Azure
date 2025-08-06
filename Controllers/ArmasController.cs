@@ -14,6 +14,7 @@ namespace RpgApi.Controllers
     public class ArmasController : ControllerBase
     {
         private readonly DataContext _context;
+        //teste do push do azure
 
         public ArmasController(DataContext context)
         {
